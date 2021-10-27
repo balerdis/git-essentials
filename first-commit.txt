@@ -1,2 +1,3 @@
 este es el primer commit que hago desde la command line:
 Este es el segundo commit con una edicion
+esto se va a mostrar en el master branch
